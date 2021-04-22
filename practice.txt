@@ -1,0 +1,2 @@
+This is a file written with nano text editor.
+Additional lines go in here. Will add more later
